@@ -1,0 +1,15 @@
+{
+  "name": "digitalroots",
+  "version": "1.0.0",
+  "main": "digitalRoots.js",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
