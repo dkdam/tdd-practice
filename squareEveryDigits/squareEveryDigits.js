@@ -7,6 +7,4 @@ const squareDigits = (num) => {
     return parseInt(array.join(""));
 }
 
-console.log(squareDigits(3212))
-
 module.exports = squareDigits
