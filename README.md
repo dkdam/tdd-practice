@@ -27,6 +27,19 @@ Make sure to have Node 10.16(or greater) & npm 5.6(or greater) or you can just d
 7. touch "your project name".js
 8. touch "your project name".test.js
 
+### How to test in javascript
+1. cd /javascript
+2. npm test
+
+## How to get started in Ruby
+1. mkdir ruby && cd ruby
+2. gem install rspec
+3. rspec --version #To verify if rspec is installed
+
+### How to test for ruby
+1. cd /ruby
+2. rspec
+
 ### Resources for more on TDD
 - https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/
 - https://www.youtube.com/watch?v=FgnxcUQ5vho&t=50s
