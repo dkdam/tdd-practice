@@ -6,8 +6,8 @@ const sumArray = (array) => {
         return 0;
     } else {
         array = array.sort(function(a,b) {return a - b;});
-        var total = 0;
-        for (var i = 1; i < array.length - 1; i++) {
+        let total = 0;
+        for (let i = 1; i < array.length - 1; i++) {
             total += array[i];
         }
         return total;
