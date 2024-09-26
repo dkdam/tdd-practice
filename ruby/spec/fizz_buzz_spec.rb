@@ -1,4 +1,4 @@
-require_relative '../fizz_buzz.rb'
+require_relative '../lib/fizz_buzz.rb'
 
 RSpec.describe FizzBuzz do
     let(:fizzbuzz) { FizzBuzz.new }

@@ -1,4 +1,4 @@
-require_relative '../average_no'
+require_relative '../lib/average_no'
 
 describe 'above average score' do
 

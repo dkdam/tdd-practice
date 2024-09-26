@@ -1,4 +1,4 @@
-require_relative '../return_negative'
+require_relative '../lib/return_negative'
 
 describe '#make_negative' do
     it 'returns a negative number when given a positive number' do

@@ -1,4 +1,4 @@
-require_relative '../vowel_remover'
+require_relative '../lib/vowel_remover'
 
 describe 'remove vowels' do
     it 'removes the vowels' do
