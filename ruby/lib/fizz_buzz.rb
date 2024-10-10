@@ -1,5 +1,4 @@
 class FizzBuzz
-
     def self.count(num)
         (1..num).map do |n|
             n % 3 == 0 && n % 5 == 0 ? 'FizzBuzz' :
@@ -8,5 +7,4 @@ class FizzBuzz
             n
         end
     end
-
 end
