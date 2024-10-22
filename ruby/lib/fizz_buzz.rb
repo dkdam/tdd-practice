@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class FizzBuzz
     def self.count(num)
         (1..num).map do |n|

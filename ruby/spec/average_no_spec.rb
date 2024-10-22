@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../lib/average_no'
 
 describe 'above average score' do

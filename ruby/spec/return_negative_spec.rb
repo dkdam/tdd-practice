@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../lib/return_negative'
 
 describe '#make_negative' do

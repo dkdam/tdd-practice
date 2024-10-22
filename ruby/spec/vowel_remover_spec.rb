@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../lib/vowel_remover'
 
 describe 'remove vowels' do
